@@ -10,5 +10,8 @@ This application will have a user-friendly interface which will be
 easy to use and understand.
 
 
+Operating System: MacOS
+Compiler: Visual Studio Code
+
 HOW TO COMPILE: 
 1:  
