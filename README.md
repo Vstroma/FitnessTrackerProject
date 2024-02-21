@@ -8,3 +8,7 @@ planning out their workouts for the 7-day week or
 track the exercises that they do day to day.
 This application will have a user-friendly interface which will be
 easy to use and understand.
+
+
+HOW TO COMPILE: 
+1:  
