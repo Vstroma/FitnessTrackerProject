@@ -13,3 +13,6 @@ public class FitnessApplication {
 	}
 
 }
+
+
+// to test while running localhost:8080/check?url=https://www.google.com
