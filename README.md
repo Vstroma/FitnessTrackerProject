@@ -1,4 +1,4 @@
-#Project Abstract
+**Project Abstract**
 This document outlines an application that can be used in a few ways to track or plan out your
 fitness activity. This application will allow you to plan out your gym schedule by the week and
 track results. The user will be asked initially to log in if they have an account or sign up. The
@@ -8,12 +8,12 @@ working out day to day. Also, the user shall be able to set new fitness goals to
 point of view, the user will make an account and have the chance to log their activity. This is a
 user-friendly application and is open to all users.
 
-Conceptual Design
+**Conceptual Design**
 Upon opening the application, the user will be prompted to login in or create an account ideally.
 The programming language will be Java and the database will be MySQL. The framework will
 be coming from Spring Boot. The API will be made through HTML code. 
 
-Background
+**Background**
 This product will have a user-friendly interface upon opening the application. A user shall be
 asked to login or create an account. After logging in or creating an account, the user will have
 access to all the application’s features. One of the application's features is to set specific fitness
